@@ -183,4 +183,4 @@ let ac2 = ["online", "idle", "invisible", "dnd","default"];
 ///coded by : Unknowm
 
 
-client.login("OTA2NjQ5NjUwMzY5NTYwNjA2.GgURwo.tSr450h4yfWvqOoI3w9LnTe7Xbc4BX_AUuhCKg"); //Your Bot Token & تۆکین لە لێرە دابنێ
+client.login("OTA0MzY4MDk3ODY2MTc0NTA1.Ghfm7C.k6N-lb3FWIo3eiDITlgvviunvQx6vj_eHUF4j0"); //Your Bot Token & تۆکین لە لێرە دابنێ
