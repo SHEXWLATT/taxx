@@ -26,7 +26,7 @@ client.on("message", async message => {
 
    
 const prefix = "#";//Your Bot Prefix & پرێفیکسی بۆتەکەت دابنێ
-const devs = "id";//Dev Bot Id & دەڤی بۆتەکەت دابنێ
+const devs = "824261211364393050";//Dev Bot Id & دەڤی بۆتەکەت دابنێ
   let args = message.content
     .split(" ")
     .slice(1)
@@ -51,7 +51,7 @@ const devs = "id";//Dev Bot Id & دەڤی بۆتەکەت دابنێ
                
 
         --------------------------------------------------
-        Developers : <@978399486378377258>
+        Developers : <@824261211364393050>
             **`);
     message.channel.send(help);
   }
@@ -183,4 +183,4 @@ let ac2 = ["online", "idle", "invisible", "dnd","default"];
 ///coded by : Unknowm
 
 
-client.login(""); //Your Bot Token & تۆکین لە لێرە دابنێ
+client.login("OTA2NjQ5NjUwMzY5NTYwNjA2.GgURwo.tSr450h4yfWvqOoI3w9LnTe7Xbc4BX_AUuhCKg"); //Your Bot Token & تۆکین لە لێرە دابنێ
